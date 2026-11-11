@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABHISHEK",
+    "description": "Android application · Ready to explore",
+    "category": "ANDROID APP",
+    "icon": "✦",
+    "version": "APK",
+    "size": 8947198,
+    "file": "./apps/ABHISHEK.apk"
+  },
+  {
+    "name": "QuizBot",
+    "description": "Quiz experience · Learn, practise and play",
+    "category": "EDUCATION",
+    "icon": "🧠",
+    "version": "APK",
+    "size": 5900602,
+    "file": "./apps/QuizBot.apk"
+  }
+]
